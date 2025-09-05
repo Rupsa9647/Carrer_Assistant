@@ -1,0 +1,32 @@
+John Smith
+Email: john.smith@example.com | Phone: +1-202-555-0134 | Location: San Francisco, CA
+
+Summary:
+Creative and detail-oriented Frontend Developer with 3+ years of experience building responsive and user-friendly web applications. Skilled in modern JavaScript frameworks, UI/UX design principles, and optimizing applications for performance and accessibility.
+
+Skills:
+- Frontend: HTML5, CSS3, JavaScript (ES6+), TypeScript
+- Frameworks: React.js, Next.js, Vue.js
+- Styling: Tailwind CSS, Bootstrap, Material-UI
+- Tools: Git, Webpack, Figma, Adobe XD
+- Testing: Jest, Cypress
+- Backend (Basic): Node.js, Express.js
+- Cloud: AWS Amplify, Firebase
+
+Experience:
+Frontend Developer | TechNova Inc. | 2021 – Present
+- Developed and maintained multiple React-based applications used by 50,000+ monthly users.
+- Collaborated with UX designers to implement responsive and accessible UI components.
+- Reduced page load time by 30% through code optimization and lazy loading techniques.
+
+Web Developer | BrightWeb Solutions | 2019 – 2021
+- Designed and deployed interactive websites for small businesses.
+- Integrated REST APIs and handled data visualization with Chart.js.
+- Worked with a cross-functional team to deliver projects on tight deadlines.
+
+Education:
+B.S. in Computer Science, University of California, Berkeley | 2018
+
+Projects:
+- Portfolio Website: Built a personal portfolio using Next.js and Tailwind CSS.
+- E-commerce App: Developed a React + Firebase shopping cart with real-time updates.
