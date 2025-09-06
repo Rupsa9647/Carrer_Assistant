@@ -12,7 +12,7 @@ RAPIDAPI_KEY = os.getenv("RAPIDAPI_KEY")
 RAPIDAPI_HOST = os.getenv("RAPIDAPI_HOST")
 RAPIDAPI_URL = "https://jsearch.p.rapidapi.com/search"
 
-def fetch_jobs(query: str, location: Optional[str] = None, page: int = 1) -> List[Dict]:
+def fetch_jobs(query: str, location: Optional[str] = None, page: int = 5) -> List[Dict]:
     """
     Fetch job listings using JSearch API on RapidAPI.
 
@@ -36,7 +36,7 @@ def fetch_jobs(query: str, location: Optional[str] = None, page: int = 1) -> Lis
     params = {
         "query": query,
         "page": page,
-        "num_pages": 1,  # adjust to get more pages
+        "num_pages": 5,  # adjust to get more pages
     }
 
     if location:
